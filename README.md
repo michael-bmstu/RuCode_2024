@@ -103,7 +103,7 @@ ___
 ![](imgs/feature_imp.png)
 
 
-## Подбор параметров и обучение
+## [Подбор параметров и обучение](https://www.kaggle.com/code/markovka/taska-solution#Model-and-training)
 
 Для решения данной задачи регрессии была выбрана модель [CarBoostRegressor](https://catboost.ai/en/docs/concepts/python-reference_catboostregressor).
 
