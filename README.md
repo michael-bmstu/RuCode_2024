@@ -11,11 +11,11 @@
 Вам необходимо реализовать алгоритм регрессии, который сможет по имеющимся данным предсказать цену недвижимости.
 
 ___
-Данные: https://www.kaggle.com/datasets/markovka/housing-issue
+[Данные](https://www.kaggle.com/datasets/markovka/housing-issue)
 
-Веса для запуска решения (V1): https://www.kaggle.com/models/markovka/catboostregressor/Other/default/1
+[Веса для запуска решения (V1)](https://www.kaggle.com/models/markovka/catboostregressor/Other/default/1)
 
-Ноутбук: https://www.kaggle.com/code/markovka/taska-solution
+[Ноутбук](https://www.kaggle.com/code/markovka/taska-solution)
 ___
 
 ## Работа с данными
