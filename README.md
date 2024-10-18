@@ -121,7 +121,13 @@ ___
 
 Для подбора параметров обучения использовался фреймворк [Optuna](https://optuna.org/).
 
-Подбираемые параметры: ```l2_leaf_reg```, ```learning_rate```, ```grow_policy```, ```rsm```, ```depth```.
+Подобранные параметры: 
+
+* ```l2_leaf_reg = 2.81255```
+* ```learning_rate = 0.0721322```
+* ```grow_policy = ‘Depthwise’```
+* ```rsm = 0.4535```
+* ```depth = 10```
 
 ### [Bagging and KFold](https://www.kaggle.com/code/markovka/taska-solution#Training)
 
