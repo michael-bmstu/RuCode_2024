@@ -1,12 +1,10 @@
-# Rucode 2024 (XXX place)
-
-<!--**Приватный лидерборд (топ 3)**: -->
+# Rucode 2024 (2-nd place)
 
 **Public test**
-MAPE = 0.247362 (score = 75.52638)
+MAPE = 0.247362 (score = 75.52638, top 3)
 
 **Private test**
-MAPE = 0.24154 (score = 75.84559)
+MAPE = 0.24154 (score = 75.84559, top 2)
 
 
 ## Описание задачи
